@@ -69,3 +69,10 @@ h2{
 .fa-moon:hover{
     color: #7664DE;
 }
+
+.fa-sun:active{
+    color: white;
+}
+.fa-moon:active{
+    color: #7664DE;
+}
