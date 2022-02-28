@@ -1,0 +1,71 @@
+.hide{
+    display: none;
+}
+
+.day{
+    background-color: #ccc;
+}
+.night{
+    background-color: #1C2D4B;
+    color: white;
+}
+
+h1{
+    font-size: 46px;
+
+    text-align: center;
+}
+
+h2{
+    font-size: 36px;
+    text-align: center;
+}
+
+.day1{
+    background: #eceaea;
+    padding: 5px;
+    height: 25px;
+    width: 45%;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+}
+
+.night1{
+    background-color: #a5a0a0;
+    padding: 5px;
+    height: 25px;
+    width: 45%;
+    /*border: 1px solid #1C2D4B;*/
+    border-radius: 8px;
+}
+
+/*.input{
+    background: #eceaea;
+    padding: 5px;
+    height: 25px;
+    width: 45%;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+}*/
+.ul{
+    font-size: 24px;
+    text-align: center;
+}
+.adaptive{
+    text-align: center;
+}
+.btn{
+    background: transparent;
+    box-shadow: none;
+    border: 1px;
+    cursor: pointer;
+}
+.btn .fa-solid {
+    font-size: 34px;
+}
+.fa-sun:hover{
+    color: white;
+}
+.fa-moon:hover{
+    color: #7664DE;
+}
